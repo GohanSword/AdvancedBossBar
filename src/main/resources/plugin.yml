@@ -1,0 +1,4 @@
+name: AdvancedBossBar
+version: ${project.version}
+main: fr.gohansword.advancedbossbar.AdvancedBossBar
+api-version: 1.16
